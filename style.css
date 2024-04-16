@@ -1,0 +1,45 @@
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.contact {
+    background-color: pink;
+    width: 100px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home {
+    background-color: palevioletred;
+    width: 100px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.about {
+    background-color: plum;
+    width: 100px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p1 {
+    border: 0.5px dashed black;
+    padding-left: 20px;
+}
+
+.p2 {
+    border: 0.5px dashed blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
